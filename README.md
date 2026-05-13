@@ -131,7 +131,8 @@ save url = 701201543522.dkr.ecr.ap-southeast-2.amazonaws.com/chicken
 
     AWS_ECR_LOGIN_URI = demo>> 701201543522.dkr.ecr.ap-southeast-2.amazonaws.com
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = chicken
+    
 
 
 
