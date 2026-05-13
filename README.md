@@ -53,5 +53,11 @@ dvc dag
 
 * Docker build & push
 * AWS EC2 + ECR deployment
+
+
+
+
+save url = 701201543522.dkr.ecr.ap-southeast-2.amazonaws.com/
+
 * Azure deployment
 
